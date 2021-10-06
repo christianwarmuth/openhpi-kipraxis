@@ -40,7 +40,7 @@ Nur notwendig bei lokaler Ausführung der Notebooks - siehe Hinweis weiter unten
 
 1. Klone das Repo
    ```sh
-   git clone https://github.com/jhoetter/openhpi-kipraxis
+   git clone https://github.com/christianwarmuth/openhpi-kipraxis
    
    cd openhpi-kipraxis
    ```
