@@ -82,6 +82,9 @@ Folge den Installationsskripten von https://github.com/Kautenja/gym-super-mario-
   - Hauspreisvorhersage: ursprünglich aus dem [buchbegleitenden Repository](https://github.com/ageron/handson-ml2) von Aurélien Géron, leicht angepasst
   - Exkurs Reinforcement Learning: Basiert auf [MadMario](https://github.com/YuansongFeng/MadMario) und einem [Pytorch Tutorial](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html). [Super Mario Bros. Environment](https://github.com/Kautenja/gym-super-mario-bros) für OpenAI Gym
 
+**Woche 2:**
+  - Recommender Systems 2: Model von [Morrisb](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender)
+
 
 
     
