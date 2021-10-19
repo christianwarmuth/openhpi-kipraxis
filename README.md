@@ -63,10 +63,10 @@ Für alle Notebooks gilt: Will man diese ausführen, so öffnet man die Notebook
 Man kann die im Github befindlichen Notebooks auch lokal ausführen. Hierfür folgen Sie bitte dem Installationsskript. Hinweise zur Ausführung von Jupyter Notebooks/Jupyter Lab findet sich [hier](https://jupyter.org/install).
 
 
-**Hinweise zu Woche 2 und 4**:
+**Hinweise zu Woche 2, 3 und 4**:
 
-Für Woche 1 und 3 können wir die Daten direkt hier im Repository zur Verfügung stellen bzw. direkt beziehen. 
-Für Woche 2 und Woche 4 haben wir Datensätze von Kaggle verwendet und dürfen diese leider nicht selbst zur Verfügung stellen. Hierzu muss man sich zuerst bei Kaggle einen Account anlegen und anschließend den eigenen Username und Token herausfinden. Siehe https://www.kaggle.com/docs/api oder https://github.com/Kaggle/kaggle-api. 
+Für Woche 1 können wir die Daten direkt hier im Repository zur Verfügung stellen bzw. direkt beziehen. 
+Für Woche 2, 3 und Woche 4 haben wir Datensätze von Kaggle verwendet und dürfen diese leider nicht selbst zur Verfügung stellen. Hierzu muss man sich zuerst bei Kaggle einen Account anlegen und anschließend den eigenen Username und Token herausfinden. Siehe https://www.kaggle.com/docs/api oder https://github.com/Kaggle/kaggle-api. 
 Gibt man diesen Username und Token dann am Anfang des Google Colab Notebooks an, so kann man auch diesen Code ausführen. 
 
 **Hinweis zu Exkurs Reinforcement Learning in Woche 1:**
@@ -84,6 +84,7 @@ Folge den Installationsskripten von https://github.com/Kautenja/gym-super-mario-
 
 **Woche 2:**
   - Recommender Systems 2: Model von [Morrisb](https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender)
+
 
 
 
