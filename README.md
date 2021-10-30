@@ -76,7 +76,7 @@ Folge den Installationsskripten von https://github.com/Kautenja/gym-super-mario-
 
 **Hinweise zur Woche 4 - Einheit "4.4.2 Grundlagen der Datenbeschaffung":**
 
-Die Einheit 4.4.2 Grundlagen der Datenbeschaffung kann nicht als Google-Colab zur Verfügung gestellt werden, da die Daten über ein lokal geöffnetes Google Chrome Browser-Fenster abgefragt werden. Hierfür ist die Installation eines Chrome-Drivers notwendig. Diesen findet man auf der [folgenden Website](https://chromedriver.chromium.org/downloads). Die Datei muss als ```chromedriver``` in den Ordner "Woche 4" abgelegt werden. Da hier jeweils verschiedene Driver notwendig sind (je nach Betriebssystem unterschiedlich), können wir das leider nicht anders zur Verfügung stellen. 
+Wenn das Notebook 4.4.2 Grundlagen der Datenbeschaffung als Jupyter Notebook ausgeführt werden soll, ist hierfür die Installation eines Chrome-Drivers notwendig. Diesen findet man auf der [folgenden Website](https://chromedriver.chromium.org/downloads). Die Datei muss als ```chromedriver``` in den Ordner "Woche 4" abgelegt werden. Da hier jeweils verschiedene Driver notwendig sind (je nach Betriebssystem unterschiedlich), können wir das leider nicht anders zur Verfügung stellen. 
 
 <!-- Quellen -->
 ## Quellen
